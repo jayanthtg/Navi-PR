@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="company">Company</string>
+    <string name="repository">Repository</string>
+    <string name="submit">submit</string>
+    <string name="all">ALL</string>
+    <string name="open">OPEN</string>
+    <string name="closed">CLOSED</string>
+</resources>
